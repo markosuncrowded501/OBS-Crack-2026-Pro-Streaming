@@ -1,0 +1,7 @@
+numpy
+pywin32
+requests
+pynput
+pillow
+colorama
+opencv-python
